@@ -12,17 +12,27 @@ public class Counter implements ICounter {
     }
 
     @Override
+    public String toString() {
+        return "Counter{" +
+                "value=" + value +
+                '}';
+    }
+
+    @Override
     public void inc() throws CounterException {
+
         this.value = this.value + 1;
+
     }
 
     @Override
     public void add(int step) throws CounterException {
-
+        this.value = this.value + step;
     }
 
     @Override
     public int getValue() {
-        return 0;
+        return this.value;
     }
+
 }
