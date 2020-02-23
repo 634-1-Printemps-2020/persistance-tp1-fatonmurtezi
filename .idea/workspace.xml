@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb2659b5-5328-4d41-855a-aede7651ad6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/CounterException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="bb2659b5-5328-4d41-855a-aede7651ad6b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +99,7 @@
       <workItem from="1582062324690" duration="1860000" />
       <workItem from="1582088644937" duration="194000" />
       <workItem from="1582089474125" duration="35000" />
-      <workItem from="1582472876177" duration="3199000" />
+      <workItem from="1582472876177" duration="3854000" />
     </task>
     <task id="LOCAL-00001" summary="counter">
       <created>1582473681598</created>
@@ -115,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582473681598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="counter donne question a propos du throw">
+      <created>1582476330097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582476330097</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +137,7 @@
       <path value="D:" />
     </ignored-roots>
     <MESSAGE value="counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="counter" />
+    <MESSAGE value="counter donne question a propos du throw" />
+    <option name="LAST_COMMIT_MESSAGE" value="counter donne question a propos du throw" />
   </component>
 </project>
